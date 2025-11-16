@@ -7,3 +7,13 @@ step : open the repo with any editor / visual studio code
 step : edit the README file 
 step : edit the text to " Your name Laptop " 
 step : alain just make a new change in this readme file
+
+
+# Github-Slides-Cloud-Engineer-Bootcam
+# Github-Slides-Cloud-Engineer-Bootcam
+# Github-Slides-Cloud-Engineer-Bootcam
+# Github-Slides-Cloud-Engineer-Bootcam
+# Github-Slides-Cloud-Engineer-Bootcam
+# Github-Slides-Cloud-Engineer-Bootcam
+# Github-Slides-Cloud-Engineer-Bootcam
+
