@@ -11,5 +11,5 @@ step : alain just make a new change in this readme file
 
 
 
-# Note : Thank for this colaboration om this project
+# Note : Thank for the colaboration on this project
 
